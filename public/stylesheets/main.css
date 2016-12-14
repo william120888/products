@@ -10,7 +10,36 @@
     padding: 9px;
 }
 
+
 #delete-form {
     display: inline;
 }
 
+
+.jumbotron {
+    text-align: center;
+}
+
+.author {
+    color: lightgray;
+}
+
+
+
+
+/*.camera {*/
+/*    position: relative;*/
+/*}*/
+
+
+/*input[type="file"] {*/
+/*    display: none;*/
+/*}*/
+
+/*.custom-file-upload {*/
+/*    border: 1px solid #ccc;*/
+/*    display: inline-block;*/
+/*    padding: 6px 12px;*/
+/*    cursor: pointer;*/
+    
+/*}*/
